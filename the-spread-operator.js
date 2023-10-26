@@ -33,6 +33,7 @@ console.log(arr5);
 
 // Gives us more powerful ways of manipulating JavaScript arrays
 
+// Challenge
 let students = [
     {
         name: 'John',
